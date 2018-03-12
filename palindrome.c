@@ -13,11 +13,11 @@ int main()
     }
     if(rev==a)
     {
-        printf("palindrom");
+        printf("yes");
     }
     else
     {
-        printf("not a palindrome");
+        printf("no");
     }
     return 0;
 }
